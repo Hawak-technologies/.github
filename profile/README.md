@@ -1,6 +1,7 @@
 
 # Hawak Technologies
-[logo]()
+![eg image](https://github.com/Hawak-technologies/.github/blob/main/profile/file_00000000558c61f8b4c2f2be21f4e1d3.png)
+
 **Hawak Technologies** is a virtual software brand and developer namespace, created for collaborative, open-source, and experimental technology projects. It serves as a digital identity and collective workspace maintained by its creator and selected contributors.
 >[!note]
 > Hawak Technologies is not a registered legal business or incorporated entity.  
@@ -67,8 +68,11 @@ To become a recognized contributor:
 > we only issues certifications, sponsors, contributor adding **if they worked under our organization**.
 
 
----
 
-**"Ideas move faster in the wind. We build what they whisper".** 
+<div  align="center">
+"Ideas move faster in the wind. We build what they whisper".
 
-*Hawak Technologies*
+Hawak Technologies
+
+</div>
+ 
