@@ -1,8 +1,8 @@
 
 # Hawak Technologies
-
+[logo]()
 **Hawak Technologies** is a virtual software brand and developer namespace, created for collaborative, open-source, and experimental technology projects. It serves as a digital identity and collective workspace maintained by its creator and selected contributors.
-
+>[!note]
 > Hawak Technologies is not a registered legal business or incorporated entity.  
 > It exists purely as a digital brand for creative development, open software collaboration, and personal innovation projects.
 
@@ -31,7 +31,7 @@ We build useful, minimal, and experimental tools that solve real problems — wi
 - Claim association with Hawak Technologies.
 - Use the name in any certification, project, course, resume, portfolio, or email signature.
 - Present themselves as part of Hawak Technologies for personal, academic, or commercial benefit.
-
+>[!caution]
 > Anyone using the Hawak Technologies name without verified contributor status assumes **full legal and ethical responsibility** for that use — including all consequences, disputes, and liabilities arising from misrepresentation.
 
 The brand and namespace remain the intellectual property of the creator and approved collaborators.
@@ -60,12 +60,15 @@ To become a recognized contributor:
 
 ##  Disclaimer
 >[!note]
-- Hawak Technologies is **not a legal entity** and does not engage in commercial activity.
-- We do not issue contracts, invoices, or formal certifications.
-- All tools are for educational, ethical, and research purposes only.
-- You use everything here **at your own risk**.
+>Hawak Technologies is **not a legal entity** and does not engage in commercial activity.
+> We do not issue contracts, invoices, or formal certifications.
+> All tools are for educational, ethical, and research purposes only.
+> You use everything here **at your own risk**.
+> we only issues certifications, sponsors, contributor adding **if they worked under our organization**.
+
 
 ---
 
-> _"Ideas move faster in the wind. We build what they whisper."_  
-> — Hawak Technologies
+**"Ideas move faster in the wind. We build what they whisper".** 
+
+*Hawak Technologies*
